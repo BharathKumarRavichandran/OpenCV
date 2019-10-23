@@ -1,2 +1,2 @@
 # OpenCV
-This repo contains my all OpenCV codes.
+This repo contains all of my OpenCV codes.
